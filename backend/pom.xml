@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ma</groupId>
-	<artifactId>fstt</artifactId>
+	<artifactId>oracle</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Oracle_Project</name>
 	<description>Oracle Project</description>
